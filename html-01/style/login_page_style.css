@@ -1,0 +1,36 @@
+    .main_section{
+        width: 300px;
+        height: 350px;
+        background-color: aqua;
+        border-radius: 20px;
+    }
+
+    .section_1{
+        justify-content: center;
+        display: flex;
+    }
+
+    .section_1_text_1{
+        color: rgb(65, 99, 2);
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .section_2{
+        justify-content: center;
+        display: flex;
+    }
+
+    .section_2_text_1{
+        justify-content: center;
+        display: flex;
+        color: rgb(207, 11, 11);
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-weight: 1000;
+    }
+
+    input{
+        margin: 5px;
+    }
